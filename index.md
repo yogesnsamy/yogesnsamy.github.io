@@ -8,7 +8,23 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Personal Fav: Networking with a single click from Sametime](/pdf/Blogging-Networking-with-a-single-click-from-Sametime.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[IBM community newsletter generator plug-in for IBM Connections](/pdf/Blogging-IBM-community-newsletter-generator-plug-in-for-IBMConnections.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Meet Aiman, a TAP Innovator!](/pdf/Blogging-Meet-Aiman-a-TAP-Innovator.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[How Much Does It Cost to Build Your Own Website?](https://www.linkedin.com/pulse/how-much-does-cost-build-basic-website-ourselves-yogeswari-narayasamy/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Build a Simple Node.js App to Display Dynamic Content with Express and EJS](https://www.linkedin.com/pulse/building-simple-nodejs-app-display-dynamic-content-ejs-narayasamy/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
