@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Blogging 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -12,18 +12,19 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Fetch API 101](https://dev.to/yogesnsamy/fetch-api-101-4mi9)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Sending Requests to the Google Photos API without Coding](https://medium.com/@yogeswari.narayasamy/fetching-data-from-google-photos-api-with-postman-2959b0f35844)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Video Content 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [My Pitch to an Internal AppMaker's Challenge that Won the First Prize in 2018](https://www.youtube.com/watch?v=rmkiHHxpPK0)
+- [How much Does Building a Website Cost?](https://www.youtube.com/watch?v=KRTNmdO1OL8)
 
 ---
 
