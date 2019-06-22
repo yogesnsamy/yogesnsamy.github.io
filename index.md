@@ -12,7 +12,7 @@
 
 - [How Much Does It Cost to Build Your Own Website?](https://www.linkedin.com/pulse/how-much-does-cost-build-basic-website-ourselves-yogeswari-narayasamy/)
 
-#### From the olden days
+#### From the olden days of internal publication with readers comments
 
 - [Networking with a single click from Sametime](/pdf/Blogging-Networking-with-a-single-click-from-Sametime.pdf)
 
@@ -22,6 +22,17 @@
 
 - [My Pitch to an Internal AppMaker's Challenge that Won the First Prize in 2018](https://www.youtube.com/watch?v=rmkiHHxpPK0)
 - [How much Does Building a Website Cost?](https://www.youtube.com/watch?v=KRTNmdO1OL8)
+
+### Mentionable Tweets
+
+-[The most memorable: The day I found out I've won a three-day scholarship to attend JSCONFASIA 2019](https://twitter.com/yogesnsamy/status/1113768357386260481)
+-[Sharing about easy network optimization](https://twitter.com/yogesnsamy/status/1115556744585834496)
+-[Sharing about how to specify img src in React JSX](https://twitter.com/yogesnsamy/status/1117693883469582337)
+-[Sharing about the Front-end Developer Handbook 2019](https://twitter.com/yogesnsamy/status/1121581453978947586)
+-[Sharinf about testing Twilio after learning about it at JSCONFASIA](https://twitter.com/yogesnsamy/status/1139928696666484736)
+-[Sharing about publishing my first article on dev.to](https://twitter.com/yogesnsamy/status/1138124009139163136)
+-[Sharing about Tachyons CSS](https://twitter.com/yogesnsamy/status/1121267905125969920)
+
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
