@@ -33,8 +33,3 @@
 - [The Front-end Developer Handbook 2019](https://twitter.com/yogesnsamy/status/1121581453978947586)
 - [The most memorable: The day I found out I've won a three-day scholarship to attend JSCONFASIA 2019](https://twitter.com/yogesnsamy/status/1113768357386260481)
 
-
-
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
