@@ -11,8 +11,8 @@
 
 #### From the olden days of internal publication with readers comments
 
-- [Networking with a single click from Sametime](/pdf/Blogging-Networking-with-a-single-click-from-Sametime.pdf)
-- [IBM community newsletter generator plug-in for IBM Connections](/pdf/Blogging-IBM-community-newsletter-generator-plug-in-for-IBMConnections.pdf)
+- [Networking with a single click from Sametime](/images/Blogging-Networking-with-a-single-click-from-Sametime.jpg)
+- [IBM community newsletter generator plug-in for IBM Connections](/images/Blogging-IBM-community-newsletter-generator-plug-in-for-IBMConnections.png)
 
 ### Video Content 
 
