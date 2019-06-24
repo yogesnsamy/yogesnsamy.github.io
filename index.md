@@ -2,9 +2,8 @@
 
 ### Personal Development Projects
 
+- [An app connected to IBM's AI technologies to process natural language queries to support RFP submissions - Test it with the input: Product = "websphere-portal" and Question="do you support japanese language"](https://watsonrfp-bold-lizard.mybluemix.net)
 - [A photo album that fetches images from a Google Drive service account and displays them in a Lightbox gallery](https://iskconalbumkl.herokuapp.com/)
-- [An app connected to IBM's AI technologies to process natural language queries to support RFP submissions - Test it with the   input: Product = "websphere-portal" and Question="do you support japanese language"](https://watsonrfp-bold-lizard.mybluemix.net/rfps)
-
 
 ### Blogging 
 
