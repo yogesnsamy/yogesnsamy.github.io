@@ -4,20 +4,21 @@
 
 ### Blogging 
 
-- [Sending Requests to the Google Photos API without Coding](https://medium.com/@yogeswari.narayasamy/fetching-data-from-google-photos-api-with-postman-2959b0f35844)
-- [Fetch API 101](https://dev.to/yogesnsamy/fetch-api-101-4mi9)
 - [Build a Simple Node.js App to Display Dynamic Content with Express and EJS](https://www.linkedin.com/pulse/building-simple-nodejs-app-display-dynamic-content-ejs-narayasamy/)
+- [Fetch API 101](https://dev.to/yogesnsamy/fetch-api-101-4mi9)
 - [How Much Does It Cost to Build Your Own Website?](https://www.linkedin.com/pulse/how-much-does-cost-build-basic-website-ourselves-yogeswari-narayasamy/)
+- [Sending Requests to the Google Photos API without Coding](https://medium.com/@yogeswari.narayasamy/fetching-data-from-google-photos-api-with-postman-2959b0f35844)
 
 #### From the olden days of internal publication as a Technology Adoption Program's Ambassador (with readers interaction)
 
-- [Networking with a single click from Sametime](/images/Blogging-Networking-with-a-single-click-from-Sametime.jpg)
 - [IBM community newsletter generator plug-in for IBM Connections](/images/Blogging-IBM-community-newsletter-generator-plug-in-for-IBMConnections.png)
+- [Networking with a single click from Sametime](/images/Blogging-Networking-with-a-single-click-from-Sametime.jpg)
 
 ### Video Content 
 
-- [My Pitch to an Internal AppMaker's Challenge that Won the First Prize in 2018](https://www.youtube.com/watch?v=rmkiHHxpPK0)
 - [How much Does Building a Website Cost?](https://www.youtube.com/watch?v=KRTNmdO1OL8)
+- [My Pitch to an Internal AppMaker's Challenge that Won the First Prize in 2018](https://www.youtube.com/watch?v=rmkiHHxpPK0)
+
 
 ### Tweets
 
