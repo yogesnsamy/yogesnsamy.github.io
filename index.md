@@ -1,6 +1,10 @@
 ## Portfolio
 
----
+### My Personal Development Projects
+
+- [I assisted a local organization to create this app to host images from their event. The app connects to the Google Drive API with a service account and displays found images in a Lightbox gallery.](https://iskconalbumkl.herokuapp.com/)
+- [This app is connected to IBM's AI technologies and is able to process natural language queries to support RFP submissions by my sales organization. Try it out with Product = "websphere-portal" and Question="do you support japanese language"](https://watsonrfp-bold-lizard.mybluemix.net/rfps)
+
 
 ### Blogging 
 
