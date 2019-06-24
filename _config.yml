@@ -1,11 +1,10 @@
 title: Yogeswari Narayasamy # your name (or website title) here
 logo: "/images/Yoges_profile_picture_blueblackResized.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-<br><br>
-<br>A continuous and curious learner.</br>
-  <br><br>
+A continuous and curious learner with a passion for writing
+  <br>
   <a href="https://www.linkedin.com/in/yogeswarinarayasamy/" target="_blank">View My LinkedIn Profile</a> 
-  <br><br>
+  <br>
   <a href="https://twitter.com/yogesnsamy" target="_blank">Connect with Me on Twitter</a> 
   
 theme: jekyll-theme-minimal
