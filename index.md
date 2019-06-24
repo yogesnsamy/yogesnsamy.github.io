@@ -9,7 +9,7 @@
 - [Build a Simple Node.js App to Display Dynamic Content with Express and EJS](https://www.linkedin.com/pulse/building-simple-nodejs-app-display-dynamic-content-ejs-narayasamy/)
 - [How Much Does It Cost to Build Your Own Website?](https://www.linkedin.com/pulse/how-much-does-cost-build-basic-website-ourselves-yogeswari-narayasamy/)
 
-#### From the olden days of internal publication with readers comments
+#### From the olden days of internal publication as a Technology Adoption Program's Ambassador (with readers interaction)
 
 - [Networking with a single click from Sametime](/images/Blogging-Networking-with-a-single-click-from-Sametime.jpg)
 - [IBM community newsletter generator plug-in for IBM Connections](/images/Blogging-IBM-community-newsletter-generator-plug-in-for-IBMConnections.png)
