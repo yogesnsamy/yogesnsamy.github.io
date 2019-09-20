@@ -2,7 +2,7 @@
 
 ### Startup
 
-- [Kiku Care](kikucare.com)
+- [Kikucare.com](kikucare.com)
 - [Pitch Deck for Kiku Care](https://app.slidebean.com/p/kj1YmTVkAT/Kikucare-2)
 - [Pitching Kiku Care](https://drive.google.com/file/d/1pAhq2hOQ4NyYBOS-fXs5sQ8WwVL1FBSD/view?usp=sharing)
 - [Joining the Startup Scene in Malaysia](https://www.linkedin.com/pulse/joining-startup-scene-malaysia-yogeswari-narayasamy/?trackingId=4qfKfFdSQQqzHRUx5soqKw%3D%3D)
