@@ -38,7 +38,7 @@
 - [The Front-end Developer Handbook 2019](https://twitter.com/yogesnsamy/status/1121581453978947586)
 
 
-### From the olden days of internal publication as a Technology Adoption Program's Ambassador (with readers interaction)
+### From the olden days of internal publication as IBM's Technology Adoption Program Ambassador (with readers interaction)
 
 - [IBM community newsletter generator plug-in for IBM Connections](/images/Blogging-IBM-community-newsletter-generator-plug-in-for-IBMConnections.png)
 - [Networking with a single click from Sametime](/images/Blogging-Networking-with-a-single-click-from-Sametime.jpg)
