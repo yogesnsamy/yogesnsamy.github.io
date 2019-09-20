@@ -6,8 +6,7 @@
 - [A photo album that fetches images from a Google Drive service account and displays them in a Lightbox gallery](https://iskconalbumkl.herokuapp.com/)
 
 ### Blogging 
-- [Cicak](% /blog/20190920-post1 %)
-
+- [Cicak2]{% link blog/20190920-post1.md %}
 - [Build a Simple Node.js App to Display Dynamic Content with Express and EJS](https://www.linkedin.com/pulse/building-simple-nodejs-app-display-dynamic-content-ejs-narayasamy/)
 - [Fetch API 101](https://dev.to/yogesnsamy/fetch-api-101-4mi9)
 - [How Much Does It Cost to Build Your Own Website?](https://www.linkedin.com/pulse/how-much-does-cost-build-basic-website-ourselves-yogeswari-narayasamy/)
