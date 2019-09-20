@@ -6,6 +6,7 @@
 - [A photo album that fetches images from a Google Drive service account and displays them in a Lightbox gallery](https://iskconalbumkl.herokuapp.com/)
 
 ### Blogging 
+
 - [Joining the Startup Scene in Malaysia](https://www.linkedin.com/pulse/joining-startup-scene-malaysia-yogeswari-narayasamy/?trackingId=4qfKfFdSQQqzHRUx5soqKw%3D%3D)
 - [Build a Simple Node.js App to Display Dynamic Content with Express and EJS](https://www.linkedin.com/pulse/building-simple-nodejs-app-display-dynamic-content-ejs-narayasamy/)
 - [Fetch API 101](https://dev.to/yogesnsamy/fetch-api-101-4mi9)
@@ -13,16 +14,11 @@
 - [Sending Requests to the Google Photos API without Coding](https://medium.com/@yogeswari.narayasamy/fetching-data-from-google-photos-api-with-postman-2959b0f35844)
 - [Sept 20th 2019 - Kikucare's Journey](./blog/20190920-post1.md)
 
-#### From the olden days of internal publication as a Technology Adoption Program's Ambassador (with readers interaction)
-
-- [IBM community newsletter generator plug-in for IBM Connections](/images/Blogging-IBM-community-newsletter-generator-plug-in-for-IBMConnections.png)
-- [Networking with a single click from Sametime](/images/Blogging-Networking-with-a-single-click-from-Sametime.jpg)
-
 ### Video Content 
 
-- [How much Does Building a Website Cost?](https://www.youtube.com/watch?v=KRTNmdO1OL8)
+- [My pitch to MaGIC Healthcare Bootcamp](https://youtu.be/WPibySgItNo)
 - [My Pitch to an Internal AppMaker's Challenge that Won the First Prize in 2018](https://www.youtube.com/watch?v=rmkiHHxpPK0)
-
+- [How much Does Building a Website Cost?](https://www.youtube.com/watch?v=KRTNmdO1OL8)
 
 ### Tweets
 
@@ -34,3 +30,7 @@
 - [The Front-end Developer Handbook 2019](https://twitter.com/yogesnsamy/status/1121581453978947586)
 - [The most memorable: The day I found out I've won a three-day scholarship to attend JSCONFASIA 2019](https://twitter.com/yogesnsamy/status/1113768357386260481)
 
+#### From the olden days of internal publication as a Technology Adoption Program's Ambassador (with readers interaction)
+
+- [IBM community newsletter generator plug-in for IBM Connections](/images/Blogging-IBM-community-newsletter-generator-plug-in-for-IBMConnections.png)
+- [Networking with a single click from Sametime](/images/Blogging-Networking-with-a-single-click-from-Sametime.jpg)
