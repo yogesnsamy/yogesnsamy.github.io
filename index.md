@@ -2,6 +2,7 @@
 
 ### Personal Development Projects
 
+- [Kiku Care - my startup](kikucare.com)
 - [An app connected to IBM's AI technologies to process natural language queries to support RFP submissions - Test it with the input: Product = "websphere-portal" and Question="do you support japanese language"](https://watsonrfp-bold-lizard.mybluemix.net)
 - [A photo album that fetches images from a Google Drive service account and displays them in a Lightbox gallery](https://iskconalbumkl.herokuapp.com/)
 
@@ -30,7 +31,7 @@
 - [The Front-end Developer Handbook 2019](https://twitter.com/yogesnsamy/status/1121581453978947586)
 - [The most memorable: The day I found out I've won a three-day scholarship to attend JSCONFASIA 2019](https://twitter.com/yogesnsamy/status/1113768357386260481)
 
-#### From the olden days of internal publication as a Technology Adoption Program's Ambassador (with readers interaction)
+### From the olden days of internal publication as a Technology Adoption Program's Ambassador (with readers interaction)
 
 - [IBM community newsletter generator plug-in for IBM Connections](/images/Blogging-IBM-community-newsletter-generator-plug-in-for-IBMConnections.png)
 - [Networking with a single click from Sametime](/images/Blogging-Networking-with-a-single-click-from-Sametime.jpg)
