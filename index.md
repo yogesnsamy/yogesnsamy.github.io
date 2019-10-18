@@ -9,7 +9,8 @@
 
 ### Personal Development Projects
 
-- [An app connected to IBM's AI technologies to process natural language queries to support RFP submissions - Test it with the input: Product = "websphere-portal" and Question="do you support japanese language"](https://watsonrfp-bold-lizard.mybluemix.net)
+- [An ExpressJS app sending alerts to Slack Channel, hosted on AWS Elastic Beanstalk](http://test-dev22222222.us-west-2.elasticbeanstalk.com/)
+- [An ExpressJS app connected to IBM's AI technologies to process natural language queries to support RFP submissions - Test it with the input: Product = "websphere-portal" and Question="do you support japanese language"](https://watsonrfp-bold-lizard.mybluemix.net)
 - [A photo album that fetches images from a Google Drive service account and displays them in a Lightbox gallery](https://iskconalbumkl.herokuapp.com/)
 
 ### Blogging 
